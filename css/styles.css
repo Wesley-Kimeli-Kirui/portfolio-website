@@ -13,7 +13,7 @@
   --first-color-lighter: hsl(var(--hue-color), 2%, 83%);
   --title-color: hsl(var(--hue-color), 2%, 29%);
   --text-color: hsl(var(--hue-color), 4%, 57%);
-  --text-color-light: hsl(var(--hue-color), 4%, 94%);
+  --text-color-light: hsl(var(--hue-color), 4%, 54%);
   --input-color: hsl(var(--hue-color), 4%, 94%);
   --body-color: hsl(var(--hue-color), 60%, 99%);
   --container-color: #fff;
@@ -515,7 +515,7 @@ img {
   width: 85%;
 }
 
-.skills-container .skills-php {
+.skills-container .skills-python {
   width: 80%;
 }
 
@@ -527,7 +527,7 @@ img {
   width: 90%;
 }
 
-.skills-container .skills-python {
+.skills-container .skills-csharp {
   width: 55%;
 }
 
